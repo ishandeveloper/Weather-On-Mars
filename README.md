@@ -1,3 +1,5 @@
+Ever wondered how's Mars currently doing? Check the latest weather reports for mars, from Nasa.  
+ 
 This is just a react based implementation of [Vannila Js Mars Weather App](https://www.youtube.com/watch?v=MDENx86nK4k) by [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw).
 
 ### Screenshots
